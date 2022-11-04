@@ -1,0 +1,3 @@
+D:/Users/Gibo/Desktop/C/Prvi Kolokvijum/UUP-KLK1-1516-G2/cmake-build-debug/CMakeFiles/untitled.dir
+D:/Users/Gibo/Desktop/C/Prvi Kolokvijum/UUP-KLK1-1516-G2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Gibo/Desktop/C/Prvi Kolokvijum/UUP-KLK1-1516-G2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
